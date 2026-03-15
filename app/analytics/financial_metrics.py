@@ -45,15 +45,17 @@ def calculate_weekly_spending(df):
     # remove rows where date conversion failed
     expenses = expenses.dropna(subset=["date"])
 
-    # extract week number
+    # extract ISO year and week number (handles Dec 31st correctly)
+    expenses["iso_year"] = expenses["date"].dt.isocalendar().year
     expenses["week"] = expenses["date"].dt.isocalendar().week
-    # print("Expenses with week number:\n", expenses[["date", "amount", "week"]])
+    print("Expenses with week number:\n", expenses[["date", "amount", "iso_year", "week"]])
 
-    # sum spending per week
+    # sum spending per week (grouped by both year and week)
     weekly = (
-        expenses.groupby("week")["amount"]
+        expenses.groupby(["iso_year", "week"])["amount"]
         .sum()
         .reset_index()
+        .rename(columns={"iso_year": "year"})
     )
 
     return weekly

@@ -115,9 +115,9 @@ def generate_excel_report(df, metrics, categories, ai_advice, weekly_spending):
         .head(5)
     )
 
-    dashboard.write("A15", "Top Merchants", section_title)
+    dashboard.write("A30", "Top Merchants", section_title)
 
-    row = 16
+    row = 30
     dashboard.write(row, 0, "Merchant", header_format)
     dashboard.write(row, 1, "Amount", header_format)
 
@@ -129,16 +129,16 @@ def generate_excel_report(df, metrics, categories, ai_advice, weekly_spending):
 
     # ---------------- WEEKLY SPENDING TABLE ---------------- #
 
-    dashboard.write("A22", "Week", header_format)
-    dashboard.write("B22", "Spending", header_format)
+    dashboard.write("A40", "Week", header_format)
+    dashboard.write("B40", "Spending", header_format)
 
-    row = 22
+    row = 41
     for _, r in weekly_spending.iterrows():
         row += 1
         dashboard.write(row, 0, f"Week {int(r['week'])}")
         dashboard.write(row, 1, r["amount"], currency_format)
 
-    week_start = 23
+    week_start = 40
     week_end = row
 
     # ---------------- WEEKLY CHART ---------------- #
@@ -157,11 +157,11 @@ def generate_excel_report(df, metrics, categories, ai_advice, weekly_spending):
     weekly_chart.set_y_axis({"name": "Amount"})
     weekly_chart.set_style(11)
 
-    dashboard.insert_chart("D20", weekly_chart, {"x_scale": 1.4, "y_scale": 1.4})
+    dashboard.insert_chart("D27", weekly_chart, {"x_scale": 1.4, "y_scale": 1.4})
 
     # ---------------- AI INSIGHTS ---------------- #
 
-    insight_start = 45
+    insight_start = 48
 
     dashboard.merge_range(
         insight_start, 3, insight_start, 7,
@@ -189,6 +189,18 @@ def generate_excel_report(df, metrics, categories, ai_advice, weekly_spending):
     txn_sheet = writer.sheets["Transactions"]
     txn_sheet.freeze_panes(1, 0)
 
+    # Date format for date columns
+    date_format = workbook.add_format({
+        "num_format": "yyyy-mm-dd",
+        "border": 1
+    })
+
+    date_format_alt = workbook.add_format({
+        "num_format": "yyyy-mm-dd",
+        "bg_color": "#F2F7FF",
+        "border": 1
+    })
+
     for col_num, value in enumerate(df.columns.values):
         txn_sheet.write(0, col_num, value, header_format)
 
@@ -199,12 +211,48 @@ def generate_excel_report(df, metrics, categories, ai_advice, weekly_spending):
     txn_sheet.set_column("E:E", 15)
     txn_sheet.set_column("F:F", 20)
 
-    alt1 = workbook.add_format({"bg_color": "#FFFFFF"})
-    alt2 = workbook.add_format({"bg_color": "#F2F7FF"})
+    # Debit (red) and Credit (green) formats
+    debit_format = workbook.add_format({
+        "bg_color": "#F8CECC",  # Light red
+        "border": 1
+    })
+    
+    debit_date_format = workbook.add_format({
+        "bg_color": "#F8CECC",  # Light red
+        "num_format": "yyyy-mm-dd",
+        "border": 1
+    })
+    
+    credit_format = workbook.add_format({
+        "bg_color": "#D4EDDA",  # Light green
+        "border": 1
+    })
+    
+    credit_date_format = workbook.add_format({
+        "bg_color": "#D4EDDA",  # Light green
+        "num_format": "yyyy-mm-dd",
+        "border": 1
+    })
+
+    alt1 = workbook.add_format({"bg_color": "#FFFFFF", "border": 1})
+    alt2 = workbook.add_format({"bg_color": "#F2F7FF", "border": 1})
 
     for r in range(1, len(df) + 1):
-        fmt = alt1 if r % 2 else alt2
+        transaction_type = df.iloc[r - 1]["type"]
+        
+        # Choose format based on transaction type
+        if transaction_type == "debit":
+            row_format = debit_format
+            date_fmt = debit_date_format
+        else:  # credit
+            row_format = credit_format
+            date_fmt = credit_date_format
+        
         for c in range(len(df.columns)):
-            txn_sheet.write(r, c, df.iloc[r - 1, c], fmt)
+            # Use date format for the 'date' column (index 1)
+            if df.columns[c] == "date":
+                txn_sheet.write(r, c, df.iloc[r - 1, c], date_fmt)
+            else:
+                txn_sheet.write(r, c, df.iloc[r - 1, c], row_format)
 
     writer.close()

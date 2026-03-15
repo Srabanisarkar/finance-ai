@@ -16,8 +16,8 @@ def load_rules():
     print(f"Loading rules from: {RULE_FILE}");
     rules_df = pd.read_csv(RULE_FILE)
 
-    rule_dict = dict(zip(rules_df["merchant"], rules_df["category"]))
-
+    rule_dict = dict(zip(rules_df["merchant"].str.strip(), rules_df["category"].str.strip()))
+    print("Loaded rules:\n", rule_dict)
     return rule_dict
 
 def detect_category(description: str) -> str:

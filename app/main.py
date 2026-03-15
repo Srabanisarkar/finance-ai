@@ -60,7 +60,7 @@ categories = category_spending(df)
 # print("Category Spending:", categories)
 
 # print("Financial Health Score:", score)
-# ai_advice=generate_ai_advice(metrics, categories)
+ai_advice=generate_ai_advice(metrics, categories)
 # print("\nAI Financial Advice:")
 # print(ai_advice)
 
@@ -78,15 +78,16 @@ df = df[
     ]
 ]
 weekly_spending = calculate_weekly_spending(df)
+# print(weekly_spending)
 
-# generate_excel_report(
-#     df,
-#     metrics,
-#     categories,
-#     ai_advice,
-#     weekly_spending
-# )
+generate_excel_report(
+    df,
+    metrics,
+    categories,
+    ai_advice,
+    weekly_spending
+)
 
 
 print("\nExcel report generated:")
-print(REPORT_FILE)
+# print(REPORT_FILE)

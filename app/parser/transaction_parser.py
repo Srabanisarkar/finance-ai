@@ -35,7 +35,7 @@ def parse_transactions(file_path: str) -> pd.DataFrame:
             continue  # skip empty rows
 
         try:
-            txn_date = pd.to_datetime(txn_date)
+            txn_date = pd.to_datetime(txn_date, dayfirst=True)
         except Exception:
             continue
 
