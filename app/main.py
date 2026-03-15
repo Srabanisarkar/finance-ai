@@ -1,5 +1,7 @@
+import os
+
 from parser.transaction_parser import parse_transactions
-from categorizer.transaction_categorizer import categorize_transactions ,export_to_csv
+from categorizer.transaction_categorizer import categorize_by_merchant ,export_to_csv
 from analytics.financial_metrics import calculate_basic_metrics, calculate_weekly_spending, category_summary, top_spending_category, average_daily_spend
 from reporter.excel_report import generate_excel_report
 from extractor.financial_extractor import  extract_merchant
@@ -13,14 +15,27 @@ from ai.financial_advisor import generate_ai_advice
 
 OUTPUT_FILE = "categorized_transactions.csv"
 
-df = parse_transactions("PNB_Statement_Jan2026.xlsx")
+print("Choose input file type:")
+print("1. HTML")
+print("2. CSV (Excel)")
+choice = input("Enter 1 for HTML or 2 for CSV: ").strip()
+if choice == '1':
+    file_path = "statement.html"
+elif choice == '2':
+    file_path = "PNB_Statement_Jan2026.xlsx"
+else:
+    print("Invalid choice. Please enter 1 or 2.")
+    exit()
+
+if not os.path.exists(file_path):
+    print(f"Error: File '{file_path}' not found in the current directory.")
+    exit()
+
+df = parse_transactions(file_path)
 
 df["merchant"] = df["description"].apply(extract_merchant)
 df["transaction_id"] = df.apply(generate_transaction_id, axis=1)
 
-
-deaaa = categorize_transactions(df)
-from categorizer.transaction_categorizer import categorize_by_merchant
 
 deaaa = categorize_by_merchant(df)
 

@@ -1,270 +1,87 @@
 date,description,amount,type,balance,merchant,transaction_id,category
-2026-01-31,UPI/CR/000635119414/SHUVODEE/HDFC/9775000755@upi/N,40000.0,credit,100572.36 Cr.,shuvodee,893b6ebf80,Others
-2026-01-31,UPI/DR/639886536470/Google I/UTIB/gpay-tv-interne/,592.9,debit,60572.36 Cr.,google i,c135fe5bd5,Subscriptions
-2026-01-31,UPI/DR/603111853005/RABI SHA/YESB/paytmqr5eekkf@p/,20.0,debit,61165.26 Cr.,rabi sha,5d53d0dd2c,Others
-2026-01-31,UPI/DR/603170297426/indranic/BARB/indranicnd@okic/,68.0,debit,61185.26 Cr.,indranic,58c78077a4,Food
-2026-01-31,UPI/DR/603104439573/Indian R/SBIN/bdpg2.iruts@sbi/,63.05,debit,61253.26 Cr.,indian r,75a146127b,Transport
-2026-01-31,UPI/DR/603148199265/TARUN GH/YESB/paytmqr6rvsyc@p/,46.0,debit,61316.31 Cr.,tarun gh,a5b303bd7a,Tea and ciggaretts
-2026-01-31,UPI/CR/117927722762/SRABANI/HDFC/srabanisarkar09/U,305.0,credit,61362.31 Cr.,srabani,a756b1388f,Personal expenses
-2026-01-31,UPI/DR/603110875666/RANJIT R/BKID/8697112018@ybl/U,150.0,debit,61057.31 Cr.,ranjit r,790b6549fb,Others
-2026-01-30,UPI/DR/603049975374/sanjibn9/PUNB/sanjibn913-4@ok/,250.0,debit,61207.31 Cr.,sanjibn9,75fa9a28dc,Others
-2026-01-30,UPI/DR/603082953555/AISHWARY/HDFC/6297253978@axl/U,160.0,debit,61457.31 Cr.,aishwary,17fd705910,Food
-2026-01-30,UPI/CR/603033355882/AISHWARY/HDFC/aishwarya.roy2k/,100.0,credit,61617.31 Cr.,aishwary,742781d4b4,Food
-2026-01-30,UPI/DR/603034970788/SOFTY WO/YESB/q964733333@ybl/U,315.0,debit,61517.31 Cr.,softy wo,40653dbc98,Others
-2026-01-30,UPI/DR/603027221762/SOMA MAJ/YESB/paytmqr6m8pjo@p/,11.0,debit,61832.31 Cr.,soma maj,9b8d85fb45,Tea and ciggaretts
-2026-01-30,UPI/DR/603016690995/PRITAM H/PUNB/q636810816@ybl/U,200.0,debit,61843.31 Cr.,pritam h,70d2722f09,Others
-2026-01-30,UPI/DR/603002161406/SOMA MAJ/YESB/paytmqr6qlhmj@p/,36.0,debit,62043.31 Cr.,soma maj,6037d44feb,Tea and ciggaretts
-2026-01-30,UPI/DR/603088181430/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,62079.31 Cr.,mohan la,f96a5d2084,Tea and ciggaretts
-2026-01-30,UPI/DR/603082280068/MOHAN LA/YESB/q513406998@ybl/U,16.0,debit,62115.31 Cr.,mohan la,d970f9d433,Tea and ciggaretts
-2026-01-29,UPI/DR/102573211612/ZOMATO/HDFC/payzomato@hdfcb/Co,187.6,debit,62131.31 Cr.,zomato,11c1ebdf30,Food
-2026-01-29,UPI/DR/602961029444/MOHAN LA/YESB/q513406998@ybl/U,42.0,debit,62318.91 Cr.,mohan la,f6d806e9df,Tea and ciggaretts
-2026-01-29,UPI/CR/639562511480/INDRANI/BARB/indranicnd@okic/U,15.0,credit,62360.91 Cr.,indrani,e599bf7b03,Others
-2026-01-29,UPI/DR/639501112717/Dharmraj/AIRP/8697958298@ybl/U,45.0,debit,62345.91 Cr.,dharmraj,9af564bd44,Others
-2026-01-29,UPI/DR/639523725392/MOHAN LA/YESB/q740153261@ybl/U,36.0,debit,62390.91 Cr.,mohan la,b317552318,Tea and ciggaretts
-2026-01-29,UPI/DR/602938566430/MOHAN LA/YESB/q776931354@ybl/U,16.0,debit,62426.91 Cr.,mohan la,fafcd8d2a4,Tea and ciggaretts
-2026-01-29,UPI/DR/602936728652/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,62442.91 Cr.,subho mi,7514eaf540,Tea and ciggaretts
-2026-01-28,UPI/DR/602856775689/SUSHANTA/AIRP/sandipdas.raj@y/,80.0,debit,62453.91 Cr.,sushanta,0b5d89879b,Others
-2026-01-28,UPI/DR/602820765640/UBER IND/HDFC/uber1.rzp@hdfcb/,44.7,debit,62533.91 Cr.,uber ind,21444c03e8,Transport
-2026-01-28,UPI/DR/602817141205/MOHAN LA/YESB/q513406998@ybl/U,18.0,debit,62578.61 Cr.,mohan la,e580c6ce50,Tea and ciggaretts
-2026-01-28,UPI/DR/602889834101/ANIRBAN/UTIB/9800487806-2@ib/U,64.0,debit,62596.61 Cr.,anirban,d86ab3a917,Others
-2026-01-28,UPI/DR/602895123035/ARJUN MA/YESB/q556058586@ybl/U,36.0,debit,62660.61 Cr.,arjun ma,0c08d3aa41,Others
-2026-01-28,UPI/DR/602896135118/AISHWARY/HDFC/6297253978@axl/U,60.0,debit,62696.61 Cr.,aishwary,445b6a09ae,Food
-2026-01-28,UPI/DR/602881921540/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,62756.61 Cr.,mohan la,3a5ced280b,Tea and ciggaretts
-2026-01-28,UPI/DR/602819917571/MOHAN LA/YESB/q804212857@ybl/U,21.0,debit,62792.61 Cr.,mohan la,646393d8f3,Tea and ciggaretts
-2026-01-28,UPI/DR/602890913939/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,62813.61 Cr.,subho mi,fa5133a71a,Tea and ciggaretts
-2026-01-27,UPI/DR/602771038791/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,62824.61 Cr.,subho mi,80eedf8584,Tea and ciggaretts
-2026-01-27,UPI/DR/602759723780/prasenji/PUNB/prasenjit.m10-1/,60.0,debit,62835.61 Cr.,prasenji,dc31181bc9,Others
-2026-01-27,UPI/DR/602762282590/SOMA MAJ/YESB/paytmqr6m8pjo@p/,196.0,debit,62895.61 Cr.,soma maj,43d15f99f0,Tea and ciggaretts
-2026-01-27,UPI/DR/639357161632/Ujjal  S/SBIN/7ujjal@ybl/UPI,770.0,debit,63091.61 Cr.,ujjal  s,98a06f5cd0,Others
-2026-01-27,UPI/DR/639357464214/SAYAK  M/SBIN/sayak2000mondal/,50.0,debit,63861.61 Cr.,sayak  m,0a382d282c,Others
-2026-01-27,UPI/DR/602726822521/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,63911.61 Cr.,mohan la,a1982cc25f,Tea and ciggaretts
-2026-01-27,UPI/DR/602717445044/AAMAR KO/HDFC/aamarkolkatamet/,28.5,debit,63947.61 Cr.,aamar ko,4814e94100,Transport
-2026-01-27,UPI/DR/602714457048/SWAPAN S/YESB/q044674232@ybl/U,11.0,debit,63976.11 Cr.,swapan s,6ddc6fdee1,Others
-2026-01-27,UPI/DR/602714368433/Indian R/SBIN/bdpg2.iruts@sbi/,48.5,debit,63987.11 Cr.,indian r,ba651060d1,Transport
-2026-01-26,UPI/DR/602692578266/KAUSTAV/YESB/q964228219@ybl/UP,36.0,debit,64035.61 Cr.,kaustav,592c56cc38,Others
-2026-01-26,UPI/DR/602685093658/Rapido/YESB/paytm-76881028@/UP,23.0,debit,64071.61 Cr.,rapido,e95ea4a9d1,Transport
-2026-01-26,UPI/DR/602682791045/SWAPAN/SBIN/sri.swapanbiswa/UP,700.0,debit,64094.61 Cr.,swapan,d799409e70,Others
-2026-01-26,UPI/DR/602607583502/SK INZAM/SBIN/skinzamamulhaqu/,33.0,debit,64794.61 Cr.,sk inzam,1d26ce0e95,Others
-2026-01-26,ACH/BD- UTIMF SMS/38897,1000.0,debit,64827.61 Cr.,ach/bd- utimf,d9a6f2c63c,Others
-2026-01-26,UPI/DR/602654138054/Indian R/SBIN/bdpg2.iruts@sbi/,72.75,debit,65827.61 Cr.,indian r,b013b7ab26,Transport
-2026-01-26,UPI/DR/602648236702/Indian R/SBIN/bdpg2.iruts@sbi/,87.3,debit,65900.36 Cr.,indian r,eb1d0b5159,Transport
-2026-01-26,UPI/CR/602695048336/UTTARAN/SBIN/sri.uttaranbisw/U,80.0,credit,65987.66 Cr.,uttaran,383debd846,Others
-2026-01-25,UPI/DR/602528965795/Rajesh K/INDB/im.201030939834/,160.0,debit,65907.66 Cr.,rajesh k,64df02df3f,Others
-2026-01-25,UPI/CR/602543221646/UTTARAN/SBIN/sri.uttaranbisw/U,55.0,credit,66067.66 Cr.,uttaran,270b1253f5,Others
-2026-01-25,UPI/DR/602557120838/Savita D/YESB/q521891882@ybl/U,210.0,debit,66012.66 Cr.,savita d,92f40fe6ca,Others
-2026-01-25,UPI/DR/639130689258/MUCHKUND/YESB/q021544940@ybl/U,60.0,debit,66222.66 Cr.,muchkund,ef2cee710f,Others
-2026-01-25,UPI/CR/639110989928/UTTARAN/SBIN/sri.uttaranbisw/U,30.0,credit,66282.66 Cr.,uttaran,95fdae4e47,Others
-2026-01-25,UPI/DR/639162298626/RAJESH K/YESB/q536567943@ybl/U,40.0,debit,66252.66 Cr.,rajesh k,5418ef29aa,Others
-2026-01-25,UPI/DR/602524908342/UTTAM KU/UCBA/8987403650@axl/U,50.0,debit,66292.66 Cr.,uttam ku,752d6163b3,Others
-2026-01-25,UPI/DR/602539943555/UTTARAN/SBIN/sri.uttaranbisw/U,180.0,debit,66342.66 Cr.,uttaran,41bbb44a4c,Others
-2026-01-25,UPI/CR/602501113790/UTTARAN/SBIN/sri.uttaranbisw/U,30.0,credit,66522.66 Cr.,uttaran,75f6e8ac27,Others
-2026-01-24,UPI/DR/639046847290/MUCHKUND/YESB/q021544940@ybl/U,62.0,debit,66492.66 Cr.,muchkund,3c3dfd59e7,Others
-2026-01-24,UPI/DR/602477977591/UPENDRA/HDFC/vyapar.17401665/U,1080.0,debit,66554.66 Cr.,upendra,d48729330c,Others
-2026-01-24,UPI/DR/602458981582/RAJESH K/YESB/q536567943@ybl/U,40.0,debit,67634.66 Cr.,rajesh k,05e8224595,Others
-2026-01-24,UPI/DR/602458585206/RAJESH K/YESB/q536567943@ybl/U,21.0,debit,67674.66 Cr.,rajesh k,5d83a39bb0,Others
-2026-01-24,UPI/DR/602434161120/Indian R/SBIN/bdpg2.iruts@sbi/,160.05,debit,67695.66 Cr.,indian r,373540bdce,Transport
-2026-01-23,UPI/DR/602300261592/GAUTAM/SBIN/goutamjha8919@o/UP,54.0,debit,67855.71 Cr.,gautam,0b42112a2d,Others
-2026-01-23,UPI/DR/602313150563/Indian R/SBIN/bdpg2.iruts@sbi/,63.05,debit,67909.71 Cr.,indian r,536a5a0d80,Transport
-2026-01-23,UPI/DR/102529790967/ZOMATO/HDFC/payzomato@hdfcb/Co,136.58,debit,67972.76 Cr.,zomato,f66f5aa837,Food
-2026-01-23,UPI/DR/602311606788/SUBHO MI/YESB/paytmqr5vj0y9@p/,66.0,debit,68109.34 Cr.,subho mi,6d8f40cfe1,Tea and ciggaretts
-2026-01-23,UPI/DR/638997580872/SRABANI/SBIN/srabanisarkar09/U,65.0,debit,68175.34 Cr.,srabani,32d3f24113,Personal expenses
-2026-01-22,UPI/DR/638811366947/ANANYA G/PUNB/gananya.bdn@oks/,1500.0,debit,68240.34 Cr.,ananya g,e21317f6bb,Personal expenses
-2026-01-22,UPI/CR/117580501148/SRABANI/HDFC/srabanisarkar09/U,287.0,credit,69740.34 Cr.,srabani,b897781608,Personal expenses
-2026-01-22,UPI/DR/102525093542/ZOMATO/HDFC/payzomato@hdfcb/Co,665.0,debit,69453.34 Cr.,zomato,901edb254d,Food
-2026-01-22,UPI/DR/638894240534/SUBHANKA/BARB/subhankar.b232@/,85.0,debit,70118.34 Cr.,subhanka,8507a9b36a,Others
-2026-01-22,UPI/DR/638895943275/TAPAS MO/YESB/paytm.s1nz92p@p/,11.0,debit,70203.34 Cr.,tapas mo,93df9a3cdc,Others
-2026-01-22,UPI/DR/102524306201/Blinkit/HDFC/blinkit.rzp@hdf/P,219.0,debit,70214.34 Cr.,blinkit,f746bbd708,Others
-2026-01-22,UPI/DR/602276577756/SHOVON N/YESB/q222349550@ybl/U,17.0,debit,70433.34 Cr.,shovon n,636030c084,Others
-2026-01-22,UPI/DR/638828130311/PINTU KU/BKID/9088678486@ybl/U,60.0,debit,70450.34 Cr.,pintu ku,becae71564,Others
-2026-01-22,UPI/DR/602239325782/SOMA MAJ/YESB/paytmqr6m8pjo@p/,36.0,debit,70510.34 Cr.,soma maj,ad34d7730a,Tea and ciggaretts
-2026-01-22,UPI/DR/602232881404/SOMA MAJ/YESB/paytmqr6qlhmj@p/,11.0,debit,70546.34 Cr.,soma maj,97bef31101,Tea and ciggaretts
-2026-01-22,UPI/DR/602234093080/smonath1/IOBA/smonath198407mo/,10.0,debit,70557.34 Cr.,smonath1,b516f84c96,Others
-2026-01-21,UPI/DR/602124207784/Basanti/UTIB/gpay-1125188127/U,100.0,debit,70567.34 Cr.,basanti,f594d30d10,Others
-2026-01-21,UPI/DR/602144169945/KRISHNA/YESB/paytm.s1ip6os@p/U,37.0,debit,70667.34 Cr.,krishna,90ce829ab5,Others
-2026-01-21,UPI/DR/298780533614/Blinkit/YESB/paytm-blinkit@p/O,494.0,debit,70704.34 Cr.,blinkit,66ef7a15fd,Others
-2026-01-21,UPI/DR/117525352037/Aditya K/YESB/q598415937@ybl/U,42.0,debit,71198.34 Cr.,aditya k,aa55d9ea5b,Others
-2026-01-21,UPI/DR/602104643189/SOMA  MA/YESB/q211807367@ybl/U,36.0,debit,71240.34 Cr.,soma  ma,eb3dc4a9c3,Others
-2026-01-21,UPI/DR/602155217737/ANIRBAN/UTIB/9800487806-2@ib/U,10.0,debit,71276.34 Cr.,anirban,99c1f393c0,Others
-2026-01-21,UPI/DR/602197270876/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,71286.34 Cr.,mohan la,dfa87042b1,Tea and ciggaretts
-2026-01-21,UPI/DR/602188642360/SOMA MAJ/YESB/paytmqr6m8pjo@p/,11.0,debit,71322.34 Cr.,soma maj,39a11776bd,Tea and ciggaretts
-2026-01-20,UPI/DR/638653883862/BISWAJIT/YESB/paytmqr6ofc4k@p/,53.0,debit,71333.34 Cr.,biswajit,fb89735e3f,Tea and ciggaretts
-2026-01-20,UPI/DR/638632865763/KRISHNA/YESB/paytm.s1ip6os@p/U,29.0,debit,71386.34 Cr.,krishna,9643a788a2,Others
-2026-01-20,UPI/DR/638654172030/PARDIP/YESB/q418733966@ybl/UPI,18.0,debit,71415.34 Cr.,pardip,252b1c0c41,Others
-2026-01-20,UPI/DR/638681243667/Nescafe/YESB/paytm.s1p2jno@p/U,155.0,debit,71433.34 Cr.,nescafe,2faf31cbbd,Others
-2026-01-20,UPI/CR/117474084332/SRABANI/HDFC/srabanisarkar09/U,115.0,credit,71588.34 Cr.,srabani,b1d7da08e6,Personal expenses
-2026-01-20,UPI/DR/638689556745/Vikas Ch/YESB/paytm.s1thht7@p/,11.0,debit,71473.34 Cr.,vikas ch,3678901277,Others
-2026-01-20,UPI/DR/602045926898/MOHAN LA/YESB/q513406998@ybl/U,122.0,debit,71484.34 Cr.,mohan la,4513f36bb7,Tea and ciggaretts
-2026-01-20,UPI/DR/602039365029/SOMA MAJ/YESB/paytmqr6m8pjo@p/,16.0,debit,71606.34 Cr.,soma maj,9af28d1b1c,Tea and ciggaretts
-2026-01-20,ACH/BD- UTIMF SMS/38701,1000.0,debit,71622.34 Cr.,ach/bd- utimf,971ef7d771,Others
-2026-01-19,UPI/DR/601931002841/MA SARAS/ICIC/getepay.ucbqrap/,20.0,debit,72622.34 Cr.,ma saras,63e5176adb,Others
-2026-01-19,UPI/DR/601952987329/KRISHNA/YESB/paytm.s1ip6os@p/U,36.0,debit,72642.34 Cr.,krishna,e1c8a3b44a,Others
-2026-01-19,UPI/DR/601953893223/Basanti/UTIB/gpay-1125188127/U,40.0,debit,72678.34 Cr.,basanti,ce4f4f5758,Others
-2026-01-19,UPI/DR/601940765925/THE SMOK/UTIB/gpay-1219087436/,18.0,debit,72718.34 Cr.,the smok,1f97fcba78,Tea and ciggaretts
-2026-01-19,UPI/CR/117429102659/SRABANI/HDFC/srabanisarkar09/U,42.0,credit,72736.34 Cr.,srabani,54947cdac4,Personal expenses
-2026-01-19,UPI/DR/601904881171/ASA  FOO/CNRB/asafoods@cnrb/UP,87.0,debit,72694.34 Cr.,asa  foo,b3d6479d5a,Others
-2026-01-19,UPI/DR/601964951319/SOMA MAJ/YESB/paytmqr6qlhmj@p/,23.0,debit,72781.34 Cr.,soma maj,d34ac6e301,Tea and ciggaretts
-2026-01-19,UPI/DR/601954037381/SOMA MAJ/YESB/paytmqr6m8pjo@p/,36.0,debit,72804.34 Cr.,soma maj,9c44fe1e34,Tea and ciggaretts
-2026-01-19,UPI/DR/601998284110/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,72840.34 Cr.,mohan la,c7ed8c7ac1,Tea and ciggaretts
-2026-01-18,UPI/DR/601889304368/Mr TAPAS/YESB/q189255555@ybl/U,90.0,debit,72876.34 Cr.,mr tapas,ed55d84614,Others
-2026-01-18,UPI/DR/638455176290/Tapas Si/YESB/paytmqr6xnxx9@p/,18.0,debit,72966.34 Cr.,tapas si,fba5b04f1f,Others
-2026-01-18,UPI/DR/638473848928/ANANYA G/PUNB/gananya.bdn@oks/,150.0,debit,72984.34 Cr.,ananya g,bceff908cf,Personal expenses
-2026-01-18,UPI/DR/102491477472/Blinkit/HDFC/blinkit.rzp@hdf/P,215.0,debit,73134.34 Cr.,blinkit,3088cef2d7,Others
-2026-01-18,UPI/DR/601847327795/SEKH ALA/YESB/paytm.s1zny34@p/,66.0,debit,73349.34 Cr.,sekh ala,1e63d3acf2,Others
-2026-01-17,UPI/DR/601720387117/BISWAJIT/YESB/q382169360@ybl/U,189.0,debit,73415.34 Cr.,biswajit,dd38769b8b,Tea and ciggaretts
-2026-01-17,UPI/DR/601754980927/BISWAJIT/YESB/q382169360@ybl/U,18.0,debit,73604.34 Cr.,biswajit,f83d97b9da,Tea and ciggaretts
-2026-01-17,UPI/DR/601724336635/Mrs MINA/YESB/q873190073@ybl/U,72.0,debit,73622.34 Cr.,mrs mina,311587a136,Others
-2026-01-17,UPI/DR/601716885580/NEW MA K/HDFC/vyapar.16948062/,133.0,debit,73694.34 Cr.,new ma k,6034f6b6d6,Others
-2026-01-17,ATM REV 2892 PNB \JAILKHANA MORE           \ BARDH,800.0,credit,73827.34 Cr.,atm rev,d5a7dd3c05,Others
-2026-01-17,ATM WDR 2892 PNB \JAILKHANA MORE           \ BARDH,800.0,debit,73027.34 Cr.,atm wdr,446c0709b3,Cash Withdrawal
-2026-01-17,UPI/DR/298540062362/Blinkit/YESB/paytm-blinkit@p/O,481.0,debit,73827.34 Cr.,blinkit,2bdb8ec66c,Others
-2026-01-16,UPI/DR/601622680813/SOUTH BE/AIRP/cf.southbengals/,100.24,debit,74308.34 Cr.,south be,e26facb609,Others
-2026-01-16,UPI/DR/601680515321/KAJAL MO/YESB/paytm.s1ihpi7@p/,18.0,debit,74408.58 Cr.,kajal mo,ab9595b2db,Tea and ciggaretts
-2026-01-16,UPI/DR/638292599250/Indian R/SBIN/bdpg2.iruts@sbi/,63.05,debit,74426.58 Cr.,indian r,0492f2720f,Transport
-2026-01-16,UPI/DR/601675257448/MITALI B/YESB/paytm.s1qwhxe@p/,18.0,debit,74489.63 Cr.,mitali b,639b757b28,Others
-2026-01-16,UPI/DR/601674935742/AAMAR KO/HDFC/aamarkolkatamet/,28.5,debit,74507.63 Cr.,aamar ko,7f4228729a,Transport
-2026-01-16,UPI/DR/601655862181/ARJUN MA/YESB/q556058586@ybl/U,36.0,debit,74536.13 Cr.,arjun ma,79b963d7be,Others
-2026-01-16,UPI/DR/601645446684/AVIJIT T/HDFC/vyapar.17364510/,165.0,debit,74572.13 Cr.,avijit t,369bab9b2a,Others
-2026-01-16,UPI/DR/601643435919/SOMA MAJ/YESB/paytmqr6m8pjo@p/,36.0,debit,74737.13 Cr.,soma maj,332f125b54,Tea and ciggaretts
-2026-01-16,UPI/DR/601635173893/SOMA MAJ/YESB/paytmqr6m8pjo@p/,16.0,debit,74773.13 Cr.,soma maj,ee4c7cf576,Tea and ciggaretts
-2026-01-15,UPI/DR/601526658954/KRISHNA/YESB/paytm.s1ip6os@p/U,38.0,debit,74789.13 Cr.,krishna,2da01c9047,Others
-2026-01-15,UPI/DR/601526503758/BISWAJIT/YESB/paytmqr6zsown@p/,53.0,debit,74827.13 Cr.,biswajit,1e4abac3d5,Tea and ciggaretts
-2026-01-15,UPI/DR/638196242916/POULASTY/HDFC/7029159742@navi/,92.0,debit,74880.13 Cr.,poulasty,d1ac89a0b0,Others
-2026-01-15,UPI/DR/601523355797/Pawan Pa/YESB/paytmqr6f0i28@p/,68.0,debit,74972.13 Cr.,pawan pa,7f7b501c25,Others
-2026-01-15,UPI/DR/601519230789/THE SMOK/UTIB/gpay-1219087436/,18.0,debit,75040.13 Cr.,the smok,e7085ee490,Tea and ciggaretts
-2026-01-15,UPI/DR/601514175455/RDB  TEA/YESB/q353300395@ybl/U,110.0,debit,75058.13 Cr.,rdb  tea,204cfe7c95,Others
-2026-01-15,UPI/DR/601510714178/KARTIK T/UTIB/gpay-1219052501/,20.0,debit,75168.13 Cr.,kartik t,d41714bde3,Others
-2026-01-15,UPI/DR/601509011074/TARUN GH/YESB/paytmqr6rvsyc@p/,18.0,debit,75188.13 Cr.,tarun gh,4c9fd4db47,Tea and ciggaretts
-2026-01-15,UPI/DR/601587286467/AISHWARY/HDFC/6297253978@axl/U,30.0,debit,75206.13 Cr.,aishwary,9b0d4b3bd3,Food
-2026-01-15,UPI/DR/601577695509/SOMA MAJ/YESB/paytmqr6m8pjo@p/,36.0,debit,75236.13 Cr.,soma maj,14ebfb69d9,Tea and ciggaretts
-2026-01-15,ACH/BD UTIMF SMS/38520,1000.0,debit,75272.13 Cr.,ach/bd utimf,0672577840,Investments
-2026-01-15,UPI/DR/601569370062/SOMA MAJ/YESB/paytmqr6m8pjo@p/,16.0,debit,76272.13 Cr.,soma maj,4057d1121e,Tea and ciggaretts
-2026-01-14,UPI/CR/117194541741/SRABANI/HDFC/srabanisarkar09/U,337.0,credit,76288.13 Cr.,srabani,316894b0b6,Personal expenses
-2026-01-14,UPI/DR/601407852562/KEBAB ME/HDFC/vyapar.17023237/,390.0,debit,75951.13 Cr.,kebab me,ce7d25cef4,Others
-2026-01-14,UPI/DR/601409743706/ANAMIKA/YESB/paytm.s1e0gwp@p/U,38.0,debit,76341.13 Cr.,anamika,509c84a8b3,Others
-2026-01-14,UPI/DR/601442327897/MD MOBAS/YESB/q222033947@ybl/U,217.0,debit,76379.13 Cr.,md mobas,1f50e91701,Others
-2026-01-14,UPI/DR/601453411434/SOMA MAJ/YESB/paytmqr6m8pjo@p/,18.0,debit,76596.13 Cr.,soma maj,59a124970a,Tea and ciggaretts
-2026-01-14,UPI/DR/601432948535/SOMA MAJ/YESB/paytmqr6qlhmj@p/,36.0,debit,76614.13 Cr.,soma maj,1d8b0bffda,Tea and ciggaretts
-2026-01-14,UPI/DR/601419766977/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,76650.13 Cr.,mohan la,9a0aad9243,Tea and ciggaretts
-2026-01-14,UPI/DR/601410728785/SOMA MAJ/YESB/paytmqr6m8pjo@p/,11.0,debit,76686.13 Cr.,soma maj,d5b7d16ef1,Tea and ciggaretts
-2026-01-13,UPI/DR/601399873508/Basanti/UTIB/gpay-1125188127/U,50.0,debit,76697.13 Cr.,basanti,5e98a5df0b,Others
-2026-01-13,UPI/DR/637936838234/ARJUN MA/YESB/q556058586@ybl/U,18.0,debit,76747.13 Cr.,arjun ma,347be3bcc1,Others
-2026-01-13,UPI/DR/601390020368/MOHAN LA/YESB/q776931354@ybl/U,49.0,debit,76765.13 Cr.,mohan la,13038553ec,Tea and ciggaretts
-2026-01-13,UPI/DR/601369168016/MOHAN LA/YESB/q776931354@ybl/U,36.0,debit,76814.13 Cr.,mohan la,38ae5835b8,Tea and ciggaretts
-2026-01-13,UPI/DR/601302898292/Ujjal  S/SBIN/7ujjal@ybl/UPI,330.0,debit,76850.13 Cr.,ujjal  s,8d614be084,Others
-2026-01-13,UPI/DR/601361799741/Ujjal  S/SBIN/7ujjal@ybl/UPI,200.0,debit,77180.13 Cr.,ujjal  s,16a1a6af41,Others
-2026-01-13,UPI/DR/601361433254/SOMA MAJ/YESB/paytmqr6m8pjo@p/,11.0,debit,77380.13 Cr.,soma maj,3459a76fcc,Tea and ciggaretts
-2026-01-12,UPI/DR/601283973404/GITA RAN/UCBA/30980110029886@/,7489.6,debit,77391.13 Cr.,gita ran,510ea9b1dc,Others
-2026-01-12,UPI/DR/601249848450/SUNITA R/YESB/paytm.s1j4ds3@p/,100.0,debit,84880.73 Cr.,sunita r,f370196842,Others
-2026-01-12,UPI/DR/601223152202/SRABANI/SBIN/srabanisarkar09/U,60.0,debit,84980.73 Cr.,srabani,987827e4f1,Personal expenses
-2026-01-12,UPI/DR/601218995651/MOHAN LA/YESB/q513406998@ybl/U,46.0,debit,85040.73 Cr.,mohan la,2afa7246b7,Tea and ciggaretts
-2026-01-12,UPI/DR/637810996822/SRABANI/SBIN/srabanisarkar09/U,45.0,debit,85086.73 Cr.,srabani,8bbcd0f1d7,Personal expenses
-2026-01-12,UPI/DR/601203528031/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,85131.73 Cr.,mohan la,986df8412d,Tea and ciggaretts
-2026-01-12,ACH/HDFCMF 10012026 CAMS/38332,2500.0,debit,85167.73 Cr.,ach/hdfcmf cams/,56a6174f04,Others
-2026-01-12,UPI/DR/601298058178/MOHAN LA/YESB/q776931354@ybl/U,16.0,debit,87667.73 Cr.,mohan la,64015003a6,Tea and ciggaretts
-2026-01-12,ACH/BD- UTIMF SMS/38353,1000.0,debit,87683.73 Cr.,ach/bd- utimf,51dfd0ebb8,Others
-2026-01-11,UPI/DR/601186633652/TAPAS MO/YESB/paytm.s1nz92p@p/,90.0,debit,88683.73 Cr.,tapas mo,4c5da51908,Others
-2026-01-11,UPI/DR/637742759498/SHOVON N/YESB/q222349550@ybl/U,17.0,debit,88773.73 Cr.,shovon n,e8ab139baf,Others
-2026-01-11,UPI/DR/637724062011/SAMRAT D/YESB/paytmqr1pv6x9uk/,18.0,debit,88790.73 Cr.,samrat d,2774e3a388,Others
-2026-01-11,UPI/DR/601177424364/AAMAR KO/HDFC/aamarkolkatamet/,28.5,debit,88808.73 Cr.,aamar ko,ed468c528f,Transport
-2026-01-11,UPI/DR/601167515318/KAJAL MO/YESB/paytm.s1ihpi7@p/,11.0,debit,88837.23 Cr.,kajal mo,bfc436d8f9,Tea and ciggaretts
-2026-01-11,UPI/DR/601167110832/Indian R/SBIN/bdpg2.iruts@sbi/,70.0,debit,88848.23 Cr.,indian r,fc5c0b0fbf,Transport
-2026-01-11,UPI/DR/637700826212/R J MOBI/YESB/q206361261@ybl/U,180.0,debit,88918.23 Cr.,r j mobi,3befb870ee,Others
-2026-01-11,UPI/DR/637777506364/INKHUB/YESB/inkhubgkesbz@ye/UP,444.0,debit,89098.23 Cr.,inkhub,e24abfc177,Shopping
-2026-01-10,UPI/DR/601036908041/Mr SANKA/YESB/q445472720@ybl/U,36.0,debit,89542.23 Cr.,mr sanka,ae8f1f66c5,Tea and ciggaretts
-2026-01-10,UPI/CR/601053932159/ARNAB  C/CNRB/arnabchatterjee/,18.0,credit,89578.23 Cr.,arnab  c,7749f865b6,Others
-2026-01-10,UPI/DR/601056861797/PIJUSH K/YESB/q996429988@ybl/U,36.0,debit,89560.23 Cr.,pijush k,6cd09504b2,Others
-2026-01-10,UPI/CR/601032437483/ARNAB  C/CNRB/arnabchatterjee/,100.0,credit,89596.23 Cr.,arnab  c,c6749e2e8a,Others
-2026-01-10,UPI/DR/601072662445/BISWAJIT/YESB/q382169360@ybl/U,249.0,debit,89496.23 Cr.,biswajit,a6decf3fbb,Tea and ciggaretts
-2026-01-10,UPI/DR/601001964708/MRS SHEF/YESB/q411907194@ybl/U,30.0,debit,89745.23 Cr.,mrs shef,ecf159712a,Others
-2026-01-10,UPI/DR/601034030017/ASMA BIB/YESB/q073422555@ybl/U,28.0,debit,89775.23 Cr.,asma bib,0d51c0452c,Others
-2026-01-10,UPI/DR/601092759533/WB Burdw/RATN/amzn-d6iyr5erbw/,198.0,debit,89803.23 Cr.,wb burdw,80891f5227,Others
-2026-01-09,UPI/DR/637524759723/KAJAL MO/YESB/paytm.s1ihpi7@p/,19.0,debit,90001.23 Cr.,kajal mo,d883b8b4a0,Tea and ciggaretts
-2026-01-09,UPI/DR/637592655149/LUCKY MO/YESB/q230333028@ybl/U,18.0,debit,90020.23 Cr.,lucky mo,e8d399b1ae,Tea and ciggaretts
-2026-01-09,UPI/DR/637585328436/Indian R/SBIN/bdpg2.iruts@sbi/,65.0,debit,90038.23 Cr.,indian r,f12c2464f5,Transport
-2026-01-09,UPI/DR/637534756539/AAMAR KO/HDFC/aamarkolkatamet/,28.5,debit,90103.23 Cr.,aamar ko,65aa8b7aec,Transport
-2026-01-09,UPI/DR/102429112754/AAMAR KO/HDFC/aamarkolkatamet/,28.5,debit,90131.73 Cr.,aamar ko,5756f02d95,Transport
-2026-01-09,UPI/DR/600974973081/SOMA MAJ/YESB/paytmqr6m8pjo@p/,36.0,debit,90160.23 Cr.,soma maj,d3a19529c9,Tea and ciggaretts
-2026-01-09,UPI/DR/600973584358/SUKHENDU/YESB/paytmqr6bz2ng@p/,18.0,debit,90196.23 Cr.,sukhendu,9922450f42,Others
-2026-01-09,UPI/DR/600973497865/Sibaji M/YESB/paytm.s1gebs3@p/,90.0,debit,90214.23 Cr.,sibaji m,d096e4b933,Others
-2026-01-09,UPI/CR/116906901885/SRABANI/HDFC/srabanisarkar09/U,25.0,credit,90304.23 Cr.,srabani,febd325aad,Personal expenses
-2026-01-09,UPI/DR/600962381535/AVIJIT T/HDFC/vyapar.17364510/,145.0,debit,90279.23 Cr.,avijit t,ece879096a,Others
-2026-01-09,UPI/DR/600961091270/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,90424.23 Cr.,mohan la,48779ae402,Tea and ciggaretts
-2026-01-09,UPI/DR/637598900727/AISHWARY/HDFC/6297253978@axl/U,48.0,debit,90460.23 Cr.,aishwary,01d8f18b8f,Food
-2026-01-09,UPI/DR/600953458428/SOMA MAJ/YESB/paytmqr6qlhmj@p/,16.0,debit,90508.23 Cr.,soma maj,e72b034eb0,Tea and ciggaretts
-2026-01-09,UPI/DR/600952370582/KRISHNA/YESB/paytm.s1ip6os@p/U,18.0,debit,90524.23 Cr.,krishna,cbfd0fefe3,Others
-2026-01-08,UPI/CR/116892902776/SRABANI/HDFC/srabanisarkar09/U,556.0,credit,90542.23 Cr.,srabani,52e22c36c5,Personal expenses
-2026-01-08,UPI/DR/600872275867/SHOVON N/YESB/q222349550@ybl/U,11.0,debit,89986.23 Cr.,shovon n,54fdd709d3,Others
-2026-01-08,UPI/DR/600812267761/THE SMOK/UTIB/gpay-1219087436/,18.0,debit,89997.23 Cr.,the smok,3309801bf5,Tea and ciggaretts
-2026-01-08,UPI/DR/600823463014/WOW MOMO/YESB/amznplwowm06000/,1113.0,debit,90015.23 Cr.,wow momo,348a3dd515,Food
-2026-01-08,UPI/DR/600836221253/Vikas Ch/YESB/paytm.s1thht7@p/,18.0,debit,91128.23 Cr.,vikas ch,351ad48a70,Others
-2026-01-08,UPI/CR/600893557882/ANIKET L/FDRL/aniket205013-9@/,108.16,credit,91146.23 Cr.,aniket l,13e189233e,Others
-2026-01-08,UPI/DR/600809966364/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,91038.07 Cr.,mohan la,8e75ae27c1,Tea and ciggaretts
-2026-01-08,UPI/DR/600802863554/MOHAN LA/YESB/q776931354@ybl/U,21.0,debit,91074.07 Cr.,mohan la,a3ea273dd5,Tea and ciggaretts
-2026-01-08,UPI/DR/600801328774/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,91095.07 Cr.,subho mi,be93755948,Tea and ciggaretts
-2026-01-07,UPI/DR/637368285893/SRABANI/HDFC/6295751259@upi/UP,139.0,debit,91106.07 Cr.,srabani,fdef558eb7,Personal expenses
-2026-01-07,UPI/DR/600786225975/SUBIR CH/YESB/paytmqr5cclsp@p/,70.0,debit,91245.07 Cr.,subir ch,e1dd831c20,Others
-2026-01-07,UPI/DR/637347179620/Rama Mon/YESB/paytmqr6qlisd@p/,36.0,debit,91315.07 Cr.,rama mon,59f2ddda12,Others
-2026-01-07,UPI/DR/637333362955/MOHAN LA/YESB/q513406998@ybl/U,18.0,debit,91351.07 Cr.,mohan la,2eea45aa48,Tea and ciggaretts
-2026-01-07,UPI/DR/637365698130/SOMA MAJ/YESB/paytmqr6m8pjo@p/,36.0,debit,91369.07 Cr.,soma maj,433c76edef,Tea and ciggaretts
-2026-01-07,UPI/DR/637311229540/SHUVODEE/HDFC/9775000755@upi/U,649.0,debit,91405.07 Cr.,shuvodee,e5b79d84db,Others
-2026-01-07,UPI/DR/637370711592/SRABANI/HDFC/6295751259@upi/UP,30.0,debit,92054.07 Cr.,srabani,7b839830b4,Personal expenses
-2026-01-07,UPI/DR/637312513975/MOHAN LA/YESB/q513406998@ybl/U,34.0,debit,92084.07 Cr.,mohan la,d57f6236d1,Tea and ciggaretts
-2026-01-07,UPI/DR/637399007156/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,92118.07 Cr.,subho mi,cd5d4a433a,Tea and ciggaretts
-2026-01-06,UPI/DR/600637468761/TARUN GH/YESB/paytmqr6rvsyc@p/,18.0,debit,92129.07 Cr.,tarun gh,b185dc4aa0,Tea and ciggaretts
-2026-01-06,UPI/DR/600658969820/MOHAN LA/YESB/q513406998@ybl/U,57.0,debit,92147.07 Cr.,mohan la,0871d3ecd8,Tea and ciggaretts
-2026-01-06,UPI/DR/637241511276/MOHAN LA/YESB/q513406998@ybl/U,36.0,debit,92204.07 Cr.,mohan la,3b86d974a5,Tea and ciggaretts
-2026-01-06,UPI/DR/600687314960/MOHAN LA/YESB/q776931354@ybl/U,16.0,debit,92240.07 Cr.,mohan la,7b95b2479a,Tea and ciggaretts
-2026-01-06,SMS CHRG FOR:01-10-2025to31-12-2025,17.7,debit,92256.07 Cr.,sms chrg,1c467f4600,Others
-2026-01-05,UPI/DR/600567400558/SRABANI/HDFC/6295751259@upi/UP,195.0,debit,92273.77 Cr.,srabani,edf074874d,Personal expenses
-2026-01-05,UPI/DR/600584929838/MITHU DA/YESB/paytm.s1njpgb@p/,18.0,debit,92468.77 Cr.,mithu da,027e611d0f,Others
-2026-01-05,UPI/DR/600549066796/MOHAN LA/YESB/q513406998@ybl/U,18.0,debit,92486.77 Cr.,mohan la,dbdf77fa5d,Tea and ciggaretts
-2026-01-05,UPI/DR/637185134631/ARJUN MA/YESB/q556058586@ybl/U,36.0,debit,92504.77 Cr.,arjun ma,8a03bf1454,Others
-2026-01-05,UPI/DR/637106832203/SRABANI/HDFC/6295751259@upi/UP,60.0,debit,92540.77 Cr.,srabani,bc010d7778,Personal expenses
-2026-01-05,UPI/DR/600596713729/SHUVODEE/HDFC/9775000755@upi/U,450.0,debit,92600.77 Cr.,shuvodee,45b83667ee,Others
-2026-01-05,UPI/DR/637136135983/MOHAN LA/YESB/q513406998@ybl/U,34.0,debit,93050.77 Cr.,mohan la,afed26e89c,Tea and ciggaretts
-2026-01-05,ACH/BD UTIMF SMS/37717,1000.0,debit,93084.77 Cr.,ach/bd utimf,009ca0d3aa,Investments
-2026-01-05,UPI/DR/600551119578/MOHAN LA/YESB/q776931354@ybl/U,37.0,debit,94084.77 Cr.,mohan la,ec0b020e85,Tea and ciggaretts
-2026-01-05,UPI/DR/637183412290/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,94121.77 Cr.,subho mi,95d74edef6,Tea and ciggaretts
-2026-01-04,UPI/CR/116685532422/SRABANI/HDFC/srabanisarkar09/U,349.0,credit,94132.77 Cr.,srabani,882ebceb65,Personal expenses
-2026-01-04,UPI/DR/600483281667/SUBHO MI/YESB/paytmqr5vj0y9@p/,119.0,debit,93783.77 Cr.,subho mi,8970ded2f1,Tea and ciggaretts
-2026-01-04,UPI/DR/637021782607/M S ASA/ICIC/eazypay.2000001/U,140.0,debit,93902.77 Cr.,m s asa,9e86ed913b,Others
-2026-01-04,UPI/DR/600433173156/THE SMOK/UTIB/gpay-1219002369/,18.0,debit,94042.77 Cr.,the smok,baf3398d10,Tea and ciggaretts
-2026-01-04,UPI/DR/637034871444/CAFE 2/HDFC/vyapar.17329123/UP,570.0,debit,94060.77 Cr.,cafe 2,00c523c5a8,Others
-2026-01-04,UPI/DR/600493144553/RDB  TEA/YESB/q353300395@ybl/U,110.0,debit,94630.77 Cr.,rdb  tea,8c2c13df90,Others
-2026-01-04,UPI/DR/600471442112/SUBHO MI/YESB/paytmqr5vj0y9@p/,18.0,debit,94740.77 Cr.,subho mi,ab9ac858d6,Tea and ciggaretts
-2026-01-04,UPI/DR/600411260282/Deployed/AIRP/aeroarmour74820/,899.1,debit,94758.77 Cr.,deployed,e4eb49627a,shopping
-2026-01-04,UPI/CR/116643467579/SAYAN DA/HDFC/sayandas1726@ok/,108.17,credit,95657.87 Cr.,sayan da,6ad2e8001b,Others
-2026-01-03,UPI/CR/116627960763/SRABANI/HDFC/srabanisarkar09/U,850.0,credit,95549.7 Cr.,srabani,9d7009e1c8,Personal expenses
-2026-01-03,D19121430CR TO1254108100003038,3000.0,debit,94699.7 Cr.,dcr to,249c7973cf,Investments
-2026-01-03,UPI/DR/636980684084/FOOD AND/HDFC/vyapar.17189998/,60.0,debit,97699.7 Cr.,food and,a745b3ec5f,Others
-2026-01-03,UPI/DR/636985752442/GATE 4 C/YESB/q199279193@ybl/U,60.0,debit,97759.7 Cr.,gate 4 c,fc0c2bb5db,Others
-2026-01-03,UPI/DR/636932750469/MOTHERS/YESB/q427459037@ybl/UP,300.0,debit,97819.7 Cr.,mothers,208f2b9c78,Others
-2026-01-03,UPI/DR/600325081987/MD  MEHT/FDRL/bharatpe.9z0w0a/,169.0,debit,98119.7 Cr.,md  meht,7b363ebdaf,Others
-2026-01-03,UPI/DR/636937152054/VIKAS CH/YESB/q952052774@ybl/U,18.0,debit,98288.7 Cr.,vikas ch,cefb7d7c09,Others
-2026-01-03,UPI/DR/636912252272/ZOMATO/HDFC/payzomato@hdfcb/UP,1119.6,debit,98306.7 Cr.,zomato,8a2876d070,Food
-2026-01-03,UPI/DR/600385115656/Zepto Ma/AIRP/zeptomarketplac/,130.0,debit,99426.3 Cr.,zepto ma,bfb57ec69e,groceries
-2026-01-03,UPI/DR/600359876838/SHOVON N/YESB/q222349550@ybl/U,17.0,debit,99556.3 Cr.,shovon n,8aa04b2f1a,Others
-2026-01-03,UPI/DR/636992538635/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,99573.3 Cr.,subho mi,0f8aee2a87,Tea and ciggaretts
-2026-01-02,UPI/DR/636893820324/SRABANI/SBIN/srabanisarkar09/U,1.0,debit,99584.3 Cr.,srabani,2397a7a72a,Personal expenses
-2026-01-02,UPI/DR/600216435418/SRABANI/SBIN/srabanisarkar09/U,273.0,debit,99585.3 Cr.,srabani,0b9f5c0e65,Personal expenses
-2026-01-02,UPI/CR/600265429693/DEBASISH/SBIN/debasish.mohaja/,324.51,credit,99858.3 Cr.,debasish,266a76f262,Others
-2026-01-02,UPI/DR/600205797478/SRABANI/SBIN/srabanisarkar09/U,60.0,debit,99533.79 Cr.,srabani,6927d26e11,Personal expenses
-2026-01-02,UPI/DR/600238394123/SANJURAN/YESB/paytm.s1fgv3y@p/,17.0,debit,99593.79 Cr.,sanjuran,024de7cbd2,Others
-2026-01-02,UPI/DR/636885895940/GOLAPIMR/YESB/q221257208@ybl/U,17.0,debit,99610.79 Cr.,golapimr,e3c70c0258,Transport
-2026-01-02,UPI/DR/600284701401/SANGITA/YESB/paytm.s1tuuqx@p/U,80.0,debit,99627.79 Cr.,sangita,86ebb80b93,Others
-2026-01-02,UPI/DR/102363446533/AAMAR KO/HDFC/aamarkolkatamet/,28.5,debit,99707.79 Cr.,aamar ko,2d4e1c9f81,Transport
-2026-01-02,UPI/DR/600232007267/AISHWARY/HDFC/6297253978@axl/U,25.0,debit,99736.29 Cr.,aishwary,d4d053b04b,Food
-2026-01-02,UPI/DR/600275405756/MOHAN LA/YESB/q513406998@ybl/U,34.0,debit,99761.29 Cr.,mohan la,31c43bb8cb,Tea and ciggaretts
-2026-01-02,UPI/DR/636846677125/MOHAN LA/YESB/q776931354@ybl/U,10.0,debit,99795.29 Cr.,mohan la,4238013b34,Tea and ciggaretts
-2026-01-02,UPI/DR/636861977891/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,99805.29 Cr.,subho mi,e775ce67eb,Tea and ciggaretts
-2026-01-01,UPI/DR/600123792762/THE SMOK/UTIB/gpay-1219087436/,10.0,debit,99816.29 Cr.,the smok,a6df20c912,Tea and ciggaretts
-2026-01-01,UPI/DR/600123704518/THE SMOK/UTIB/gpay-1219002369/,20.0,debit,99826.29 Cr.,the smok,926669b47b,Tea and ciggaretts
-2026-01-01,UPI/CR/116521865041/SRABANI/HDFC/srabanisarkar09/U,50.0,credit,99846.29 Cr.,srabani,cd4be9d82b,Personal expenses
-2026-01-01,UPI/DR/636724070518/RDB  TEA/YESB/q353300395@ybl/U,100.0,debit,99796.29 Cr.,rdb  tea,12253845f1,Others
-2026-01-01,UPI/DR/636799344642/MOHAN LA/YESB/q513406998@ybl/U,17.0,debit,99896.29 Cr.,mohan la,297d8fe5c8,Tea and ciggaretts
-2026-01-01,UPI/DR/636773045300/Google I/UTIB/gpay-tv-interne/,592.9,debit,99913.29 Cr.,google i,2caaa16319,Subscriptions
-2026-01-01,UPI/DR/636772946456/MOHAN LA/YESB/q804212857@ybl/U,34.0,debit,100506.19 Cr.,mohan la,8cc8ec853b,Tea and ciggaretts
-2026-01-01,UPI/DR/636745513075/MOHAN LA/YESB/q513406998@ybl/U,34.0,debit,100540.19 Cr.,mohan la,13fd590efd,Tea and ciggaretts
-2026-01-01,UPI/DR/600157296674/MOHAN LA/YESB/q776931354@ybl/U,5.0,debit,100574.19 Cr.,mohan la,e0612e47a8,Tea and ciggaretts
-2026-01-01,UPI/DR/636705018460/MOHAN LA/YESB/q776931354@ybl/U,10.0,debit,100579.19 Cr.,mohan la,fac2b3be02,Tea and ciggaretts
-2026-01-01,UPI/DR/600103088879/SUBHO MI/YESB/paytmqr5vj0y9@p/,11.0,debit,100589.19 Cr.,subho mi,25310a8b65,Tea and ciggaretts
+2026-03-15 19:04:46,PAY | 607499226138 | xxxxxxxxxpto79@oksbi(SHIPTA SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),170.0,credit,,pay |,121e67c891,Others
+2026-03-15 10:47:53,PAY | 104753383700 | xxxxx51259@upi(SRABANI SARKAR) | xxxxsh711@oksbi(xxxxxxxxHOSH),351.0,debit,,pay |,bda92be523,Others
+2026-03-14 15:11:51,PAY | 151151302471 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79-1@okaxis(xxxxxxxxRKAR),90.0,debit,,pay |,c06011e035,Others
+2026-03-14 08:35:10,PAY | 83510968886 | xxxxx51259@upi(SRABANI SARKAR) | xwiggy.xtores@axb(xxxxxxxxited),517.0,debit,,pay |,c623b73d79,Others
+2026-03-14 07:27:10,PAY | 72710992948 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79@oksbi(xxxxxxxxRKAR),271.0,debit,,pay |,05b88055b1,Others
+2026-03-13 19:21:55,PAY | 192155841170 | xxxxx51259@upi(SRABANI SARKAR) | xxxxomato@hdfcbank(ZOMATO),393.01,debit,,pay |,37e04854a8,Others
+2026-03-13 19:13:14,PAY | 191314619219 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),1000.0,debit,,pay |,a8b196b971,Others
+2026-03-13 11:26:25,PAY | 112625845799 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx07367@ybl(xxxxxxxxAJHI),27.0,debit,,pay |,57c45efce4,Others
+2026-03-12 14:04:04,PAY | 140404392324 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx36834@ybl(xxxxxxxx DAS),60.0,debit,,pay |,91ed1177d7,Others
+2026-03-12 11:23:46,PAY | 112346004132 | xxxxx00755@upi(SHUVODEEPGHOSH) | xxxxx51259@upi(xxxxxxxxRKAR),15.0,credit,,pay |,d38e7e491d,Others
+2026-03-12 11:13:39,PAY | 111339294421 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx58298@ybl(xxxxxxxx Sah),45.0,debit,,pay |,1455c6ee3d,Others
+2026-03-10 20:41:14,PAY | 204114002933 | xxxxx51259@upi(SRABANI SARKAR) | paytm.xxtlv2t@pty(xxxxxxxxndal),50.0,debit,,pay |,f764e8186f,Others
+2026-03-10 20:41:05,PAY | 643571535164 | xxxxsh711@okaxis(SHUVODEEP GHOSH) | xxxxx51259@upi(xxxxxxxx@upi),25.0,credit,,pay |,92db81cad0,Others
+2026-03-10 20:40:58,PAY | 643577613882 | xxxxsh711-1@okicici(SHUVODEEP GHOSH) | xxxxx51259@upi(xxxxxxxx@upi),25.0,credit,,pay |,671edd28dd,Others
+2026-03-10 18:56:07,PAY | 185607487995 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxtores@icici(Swiggy),263.0,debit,,pay |,be74bfbd7d,Others
+2026-03-10 14:19:08,PAY | 141908024254 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxtores@icici(Swiggy),291.0,debit,,pay |,ca5db0e644,Others
+2026-03-10 13:51:58,PAY | 135158279379 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxrking-2.bdpg@kotakpay(xxxxxxxxKing),82.96,debit,,pay |,d1572c1354,Others
+2026-03-09 19:42:22,PAY | 194222732906 | xxxxx51259@upi(SRABANI SARKAR) | xxxxsh711@oksbi(xxxxxxxxHOSH),75.0,debit,,pay |,050d7eba33,Others
+2026-03-09 16:55:21,PAY | 165521148446 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx19367@ybl(xxxxxxxx DAS),40.0,debit,,pay |,1d7b4fa742,Others
+2026-03-08 16:26:15,PAY | 162615992446 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79@oksbi(xxxxxxxxRKAR),1000.0,debit,,pay |,36e5a567da,Others
+2026-03-08 16:24:13,PAY | 162413574749 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79@oksbi(xxxxxxxxRKAR),200.0,debit,,pay |,7a7e21011b,Others
+2026-03-08 16:23:54,PAY | 162354513155 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),600.0,debit,,pay |,3c144fb9bb,Others
+2026-03-08 09:31:27,PAY | 93127973247 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79@oksbi(xxxxxxxxRKAR),500.0,debit,,pay |,e5aca8457b,Others
+2026-03-06 21:20:58,PAY | 212058704453 | xxxxx51259@upi(SRABANI SARKAR) | xxxmktp1@kotakpay(xxxxxxxxITED),255.0,debit,,pay |,007d2752d3,Others
+2026-03-06 10:54:31,PAY | 105431310988 | xxxxx51259@upi(SRABANI SARKAR) | xxxx2anuj.xxlkata-1@okicici(xxxxxxxxRJEE),2000.0,debit,,pay |,2fb2c804d4,Others
+2026-03-06 10:49:24,PAY | 104924873987 | xxxxx51259@upi(SRABANI SARKAR) | xyapar.xxxxxxx08484@hdfcbank(xxxxxxxxTALL),130.0,debit,,pay |,c5fba364cd,Others
+2026-03-05 20:18:14,PAY | 201814327571 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxx00180@okicici(xxxxxxxxATUN),276.0,debit,,pay |,dbab576632,Others
+2026-03-05 20:18:01,PAY | 201801623358 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxx00180@okicici(xxxxxxxxATUN),276.0,debit,,pay |,69b31b355b,Others
+2026-03-05 19:43:29,PAY | 194329791136 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxx00180@okicici(xxxxxxxxATUN),298.0,debit,,pay |,57802cd295,Others
+2026-03-05 19:28:42,PAY | 192842347392 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx18466@ybl(xxxxxxxxCity),699.0,debit,,pay |,af290c095c,Others
+2026-03-05 11:08:00,PAY | 110800107804 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),500.0,debit,,pay |,a3e3646c47,Others
+2026-03-05 11:02:18,PAY | 110218429932 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx24958@ybl(xxxxxxxx MAL),50.0,debit,,pay |,58c1ca82c6,Others
+2026-03-05 11:02:00,PAY | 110200067449 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx24958@ybl(xxxxxxxx MAL),50.0,debit,,pay |,187c00a062,Others
+2026-03-05 10:54:55,PAY | 105455197390 | xxxxx51259@upi(SRABANI SARKAR) | xxxpkart.hypg@yespay(xxxxxxxxkart),234.0,debit,,pay |,69ed305337,Others
+2026-03-04 16:50:34,PAY | 165034916964 | xxxxx51259@upi(SRABANI SARKAR) | udemy.adyen@axisupi(Udemy),419.0,debit,,pay |,73068cec24,Others
+2026-03-04 08:58:34,PAY | 85834334410 | xxxxx51259@upi(SRABANI SARKAR) | setu.xxxpkart@pineaxis(xxxxxxxxited),112.0,debit,,pay |,307cf34746,Others
+2026-03-03 12:15:41,PAY | 121541682354 | xxxxx51259@upi(SRABANI SARKAR) | xxxxomato@hdfcbank(ZOMATO),393.19,debit,,pay |,5e5af331c2,Others
+2026-03-03 12:10:39,PAY | 121039471605 | xxxxx51259@upi(SRABANI SARKAR) | xxxxomato@hdfcbank(ZOMATO),393.19,debit,,pay |,afa5a3bdf3,Others
+2026-03-03 12:08:57,PAY | 120857239770 | xxxxx51259@upi(SRABANI SARKAR) | xxxxomato@hdfcbank(ZOMATO),394.19,debit,,pay |,c263eeec1a,Others
+2026-03-03 12:07:39,PAY | 120739001184 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),2000.0,debit,,pay |,29d514d89b,Others
+2026-03-03 09:04:43,PAY | 90443598162 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxtores@icici(Swiggy),283.0,debit,,pay |,488aee7797,Others
+2026-03-02 15:33:47,PAY | 153347719172 | xxxxx51259@upi(SRABANI SARKAR) | xwiggy.xtores@axb(xxxxxxxxited),349.0,debit,,pay |,9445df6057,Others
+2026-03-02 13:49:58,COLLECT | 109294548905 | xxxxxxxxxxxxxxxxxxxxxxxxxxx652f6@upi(SRABANI SARKAR) | xxxflix2.payu@icici(Netflix Entertainment Services IndiaLLP),199.0,debit,,collect |,189fe4bcea,Others
+2026-03-15 19:04:46,PAY | 607499226138 | xxxxxxxxxpto79@oksbi(SHIPTA SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),170.0,credit,,pay |,121e67c891,Others
+2026-03-15 10:47:53,PAY | 104753383700 | xxxxx51259@upi(SRABANI SARKAR) | xxxxsh711@oksbi(xxxxxxxxHOSH),351.0,debit,,pay |,bda92be523,Others
+2026-03-14 15:11:51,PAY | 151151302471 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79-1@okaxis(xxxxxxxxRKAR),90.0,debit,,pay |,c06011e035,Others
+2026-03-14 08:35:10,PAY | 83510968886 | xxxxx51259@upi(SRABANI SARKAR) | xwiggy.xtores@axb(xxxxxxxxited),517.0,debit,,pay |,c623b73d79,Others
+2026-03-14 07:27:10,PAY | 72710992948 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79@oksbi(xxxxxxxxRKAR),271.0,debit,,pay |,05b88055b1,Others
+2026-03-13 19:21:55,PAY | 192155841170 | xxxxx51259@upi(SRABANI SARKAR) | xxxxomato@hdfcbank(ZOMATO),393.01,debit,,pay |,37e04854a8,Others
+2026-03-13 19:13:14,PAY | 191314619219 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),1000.0,debit,,pay |,a8b196b971,Others
+2026-03-13 11:26:25,PAY | 112625845799 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx07367@ybl(xxxxxxxxAJHI),27.0,debit,,pay |,57c45efce4,Others
+2026-03-12 14:04:04,PAY | 140404392324 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx36834@ybl(xxxxxxxx DAS),60.0,debit,,pay |,91ed1177d7,Others
+2026-03-12 11:23:46,PAY | 112346004132 | xxxxx00755@upi(SHUVODEEPGHOSH) | xxxxx51259@upi(xxxxxxxxRKAR),15.0,credit,,pay |,d38e7e491d,Others
+2026-03-12 11:13:39,PAY | 111339294421 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx58298@ybl(xxxxxxxx Sah),45.0,debit,,pay |,1455c6ee3d,Others
+2026-03-10 20:41:14,PAY | 204114002933 | xxxxx51259@upi(SRABANI SARKAR) | paytm.xxtlv2t@pty(xxxxxxxxndal),50.0,debit,,pay |,f764e8186f,Others
+2026-03-10 20:41:05,PAY | 643571535164 | xxxxsh711@okaxis(SHUVODEEP GHOSH) | xxxxx51259@upi(xxxxxxxx@upi),25.0,credit,,pay |,92db81cad0,Others
+2026-03-10 20:40:58,PAY | 643577613882 | xxxxsh711-1@okicici(SHUVODEEP GHOSH) | xxxxx51259@upi(xxxxxxxx@upi),25.0,credit,,pay |,671edd28dd,Others
+2026-03-10 18:56:07,PAY | 185607487995 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxtores@icici(Swiggy),263.0,debit,,pay |,be74bfbd7d,Others
+2026-03-10 14:19:08,PAY | 141908024254 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxtores@icici(Swiggy),291.0,debit,,pay |,ca5db0e644,Others
+2026-03-10 13:51:58,PAY | 135158279379 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxrking-2.bdpg@kotakpay(xxxxxxxxKing),82.96,debit,,pay |,d1572c1354,Others
+2026-03-09 19:42:22,PAY | 194222732906 | xxxxx51259@upi(SRABANI SARKAR) | xxxxsh711@oksbi(xxxxxxxxHOSH),75.0,debit,,pay |,050d7eba33,Others
+2026-03-09 16:55:21,PAY | 165521148446 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx19367@ybl(xxxxxxxx DAS),40.0,debit,,pay |,1d7b4fa742,Others
+2026-03-08 16:26:15,PAY | 162615992446 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79@oksbi(xxxxxxxxRKAR),1000.0,debit,,pay |,36e5a567da,Others
+2026-03-08 16:24:13,PAY | 162413574749 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79@oksbi(xxxxxxxxRKAR),200.0,debit,,pay |,7a7e21011b,Others
+2026-03-08 16:23:54,PAY | 162354513155 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),600.0,debit,,pay |,3c144fb9bb,Others
+2026-03-08 09:31:27,PAY | 93127973247 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxxxpto79@oksbi(xxxxxxxxRKAR),500.0,debit,,pay |,e5aca8457b,Others
+2026-03-06 21:20:58,PAY | 212058704453 | xxxxx51259@upi(SRABANI SARKAR) | xxxmktp1@kotakpay(xxxxxxxxITED),255.0,debit,,pay |,007d2752d3,Others
+2026-03-06 10:54:31,PAY | 105431310988 | xxxxx51259@upi(SRABANI SARKAR) | xxxx2anuj.xxlkata-1@okicici(xxxxxxxxRJEE),2000.0,debit,,pay |,2fb2c804d4,Others
+2026-03-06 10:49:24,PAY | 104924873987 | xxxxx51259@upi(SRABANI SARKAR) | xyapar.xxxxxxx08484@hdfcbank(xxxxxxxxTALL),130.0,debit,,pay |,c5fba364cd,Others
+2026-03-05 20:18:14,PAY | 201814327571 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxx00180@okicici(xxxxxxxxATUN),276.0,debit,,pay |,dbab576632,Others
+2026-03-05 20:18:01,PAY | 201801623358 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxx00180@okicici(xxxxxxxxATUN),276.0,debit,,pay |,69b31b355b,Others
+2026-03-05 19:43:29,PAY | 194329791136 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxx00180@okicici(xxxxxxxxATUN),298.0,debit,,pay |,57802cd295,Others
+2026-03-05 19:28:42,PAY | 192842347392 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx18466@ybl(xxxxxxxxCity),699.0,debit,,pay |,af290c095c,Others
+2026-03-05 11:08:00,PAY | 110800107804 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),500.0,debit,,pay |,a3e3646c47,Others
+2026-03-05 11:02:18,PAY | 110218429932 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx24958@ybl(xxxxxxxx MAL),50.0,debit,,pay |,58c1ca82c6,Others
+2026-03-05 11:02:00,PAY | 110200067449 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx24958@ybl(xxxxxxxx MAL),50.0,debit,,pay |,187c00a062,Others
+2026-03-05 10:54:55,PAY | 105455197390 | xxxxx51259@upi(SRABANI SARKAR) | xxxpkart.hypg@yespay(xxxxxxxxkart),234.0,debit,,pay |,69ed305337,Others
+2026-03-04 16:50:34,PAY | 165034916964 | xxxxx51259@upi(SRABANI SARKAR) | udemy.adyen@axisupi(Udemy),419.0,debit,,pay |,73068cec24,Others
+2026-03-04 08:58:34,PAY | 85834334410 | xxxxx51259@upi(SRABANI SARKAR) | setu.xxxpkart@pineaxis(xxxxxxxxited),112.0,debit,,pay |,307cf34746,Others
+2026-03-03 12:15:41,PAY | 121541682354 | xxxxx51259@upi(SRABANI SARKAR) | xxxxomato@hdfcbank(ZOMATO),393.19,debit,,pay |,5e5af331c2,Others
+2026-03-03 12:10:39,PAY | 121039471605 | xxxxx51259@upi(SRABANI SARKAR) | xxxxomato@hdfcbank(ZOMATO),393.19,debit,,pay |,afa5a3bdf3,Others
+2026-03-03 12:08:57,PAY | 120857239770 | xxxxx51259@upi(SRABANI SARKAR) | xxxxomato@hdfcbank(ZOMATO),394.19,debit,,pay |,c263eeec1a,Others
+2026-03-03 12:07:39,PAY | 120739001184 | xxxxx51259@upi(SRABANI SARKAR) | xxxxx51259@upi(xxxxxxxxRKAR),2000.0,debit,,pay |,29d514d89b,Others
+2026-03-03 09:04:43,PAY | 90443598162 | xxxxx51259@upi(SRABANI SARKAR) | xxxxxxxtores@icici(Swiggy),283.0,debit,,pay |,488aee7797,Others
+2026-03-02 15:33:47,PAY | 153347719172 | xxxxx51259@upi(SRABANI SARKAR) | xwiggy.xtores@axb(xxxxxxxxited),349.0,debit,,pay |,9445df6057,Others
+2026-03-02 13:49:58,COLLECT | 109294548905 | xxxxxxxxxxxxxxxxxxxxxxxxxxx652f6@upi(SRABANI SARKAR) | xxxflix2.payu@icici(Netflix Entertainment Services IndiaLLP),199.0,debit,,collect |,189fe4bcea,Others
