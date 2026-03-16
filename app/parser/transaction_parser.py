@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 
+
 def _extract_name_from_field(field: str) -> str | None:
     """Extract the display name from fields like 'id@bank(Name Surname)'."""
     if not field or not isinstance(field, str):
